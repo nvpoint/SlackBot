@@ -1,5 +1,5 @@
 ## 📎 Project Here
-Click [here](./slackbot/readme.md) to view the README for this project.
+Click [here](./SlackBot/Slackbot/readme.md) to view the README for this project.
 
 ## 📦 Setup
 
