@@ -1,3 +1,6 @@
+## 📎 Project Here
+Click [here](./slackbot/README.md) to view the README for this project.
+
 ## 📦 Setup
 
 ### Step 1: Create a Slack App
